@@ -4,9 +4,13 @@
   "private": true,
   "homepage": "https://rogorman9.github.io/",
   "dependencies": {
+    "@material-ui/core": "^3.4.0",
+    "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
+    "js-file-download": "^0.4.4",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
+    "react-file-reader-input": "^2.0.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {

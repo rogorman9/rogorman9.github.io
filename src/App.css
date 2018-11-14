@@ -30,3 +30,11 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  display: inline;
+}
+
+input {
+  margin: 0 auto;
+}
