@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
-import './App.css';
-import Upload from './components/Upload/upload';
-
+import React, { Component } from 'react'
+import './App.css'
+import Upload from './components/Upload/upload'
 
 const styles = theme => ({
   button: {
@@ -10,7 +9,7 @@ const styles = theme => ({
   input: {
     display: 'none',
   },
-});
+})
 
 class App extends Component {
   render() {
@@ -18,8 +17,8 @@ class App extends Component {
       <div className="App">
         <Upload />
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
